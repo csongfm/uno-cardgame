@@ -1,6 +1,7 @@
-# Python Class 3880
-# Lesson 5 Problem 1
-# Author: csong (360073)
+#Game of UNO
+#Supports multiple players on one device
+#Option to play with robot players that randomly choose cards to play
+
 import random
 
 class UnoCard:
